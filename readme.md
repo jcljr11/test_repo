@@ -1,4 +1,3 @@
-# Noice!
 
 
 # Hello World!
